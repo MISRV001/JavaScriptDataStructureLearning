@@ -1,14 +1,14 @@
 # LearnJavaScript
 
 ## **Part 1: Essential JavaScript Principles and Practices**
-1. Identify characteristics of JavaScript and common programming practices.
+1. **Identify characteristics of JavaScript and common programming practices.**
    - List key JavaScript characteristics, including object-based nature, events, platformindependence, and differences between scripting languages and programming languages.
    - Identify common programming concepts, including objects, properties and methods.
    - Describe various JavaScript versions and flavors, including ECMA standards, JScript and similarities with proprietary scripting languages.
    - Distinguish between server-side and client-side JavaScript applications, including JavaScript interpreters and rendering engines.
    - Describe acceptable coding practices, including appropriate use of comment tags and the <noscript> tag.
    - Examine the evolution of the role of JavaScript in simple Web page design, such as gaming, virtual reality (VR), native development, mobile device scripting and backend development.
-2. Work with variables and data in JavaScript.
+2. **Work with variables and data in JavaScript.**
    - Use attributes and methods to communicate with users, including the type attribute.
    - Define variables, data types and scope.
    - List keywords and reserved words.
