@@ -1,7 +1,7 @@
 # LearnJavaScript
 
 ## Domain 1: Essential JavaScript Principles and Practices
-1.1: Identify characteristics of JavaScript and common programming practices.
+1.1: Identify characteristics of JavaScript and common programming practices.\n
 1.1.1: List key JavaScript characteristics, including object-based nature, events, platformindependence, and differences between scripting languages and programming languages.
 1.1.2: Identify common programming concepts, including objects, properties and methods.
 1.1.3: Describe various JavaScript versions and flavors, including ECMA standards, JScript and
