@@ -1,5 +1,7 @@
 # LearnJavaScript
 
+<p><img src="images/JS-Image.png" alt="JS Learning" title="Java Script Learning" /></p>
+
 ## **Part 1: Essential JavaScript Principles and Practices**
 1. **Identify characteristics of JavaScript and common programming practices.**
    - List key JavaScript characteristics, including object-based nature, events, platformindependence, and differences between scripting languages and programming languages.
