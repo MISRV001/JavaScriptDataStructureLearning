@@ -1,6 +1,6 @@
 # LearnJavaScript
 
-## Part 1: Essential JavaScript Principles and Practices
+## **Part 1: Essential JavaScript Principles and Practices**
 1. Identify characteristics of JavaScript and common programming practices.
    - List key JavaScript characteristics, including object-based nature, events, platformindependence, and differences between scripting languages and programming languages.
    - Identify common programming concepts, including objects, properties and methods.
@@ -26,7 +26,7 @@
    - Demonstrate the use of function specific methods including calling, binding and applying.
    - Use built-in functions and cast variables.
 
-## Part 2: Intermediate JavaScript Programming Techniques
+## **Part 2: Intermediate JavaScript Programming Techniques**
 
 1. Debug and troubleshoot JavaScript code.
    - Demonstrate common steps for debugging JavaScript code, including reviewing code and testing code in different browsers and various devices.
@@ -63,7 +63,7 @@
    - Create functions and methods for manipulating client-side arrays.
    - Use the prototype property, concept of classes, constructors, iterators and generators.
 
-## Part 3: Applied JavaScript
+## **Part 3: Applied JavaScript**
 
 1. Modify HTML with JavaScript.
    - Identify steps and methods for changing HTML "on the fly," including the getElementById, getElementsByName, getElementsByTagName and getElementsByClassName methods of the DOM.
@@ -87,7 +87,7 @@
    - Manipulate cookies effectively, including testing for presence of cookies, clearing cookies, enabling/disabling cookies in the browser, and deleting cookies from your hard drive.
    - Discuss ethics in collecting, storing, using and protecting user data.
 
-## Part 4: JavaScript Technology Extensions
+## **Part 4: JavaScript Technology Extensions**
 1. Implement JavaScript libraries and frameworks
    - Identify and evaluate the benefits and drawbacks of using predefined libraries and frameworks, such as jQuery, Spry, Dojo, React.js, Angular.js and Prototype.
      - AngularJS
