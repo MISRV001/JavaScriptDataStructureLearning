@@ -1,17 +1,17 @@
 # LearnJavaScript
 
-## Domain 1: Essential JavaScript Principles and Practices
-1.1: Identify characteristics of JavaScript and common programming practices.\n
-1.1.1: List key JavaScript characteristics, including object-based nature, events, platformindependence, and differences between scripting languages and programming languages.
-1.1.2: Identify common programming concepts, including objects, properties and methods.
-1.1.3: Describe various JavaScript versions and flavors, including ECMA standards, JScript and
+## Part 1: Essential JavaScript Principles and Practices
+1. Identify characteristics of JavaScript and common programming practices.\n
+- List key JavaScript characteristics, including object-based nature, events, platformindependence, and differences between scripting languages and programming languages.
+- Identify common programming concepts, including objects, properties and methods.
+- Describe various JavaScript versions and flavors, including ECMA standards, JScript and
 similarities with proprietary scripting languages.
-1.1.4: Distinguish between server-side and client-side JavaScript applications, including
+- Distinguish between server-side and client-side JavaScript applications, including
 JavaScript interpreters and rendering engines.
-1.1.5: Describe acceptable coding practices, including appropriate use of comment tags and the <noscript> tag.
-1.1.6: Examine the evolution of the role of JavaScript in simple Web page design, such as gaming, virtual reality (VR), native development, mobile device scripting and backend development.
-1.2: Work with variables and data in JavaScript.
-1.2.1: Use attributes and methods to communicate with users, including the type attribute.
+- Describe acceptable coding practices, including appropriate use of comment tags and the <noscript> tag.
+- Examine the evolution of the role of JavaScript in simple Web page design, such as gaming, virtual reality (VR), native development, mobile device scripting and backend development.
+2. Work with variables and data in JavaScript.
+- Use attributes and methods to communicate with users, including the type attribute.
 1.2.2: Define variables, data types and scope.
 1.2.3: List keywords and reserved words.
 1.2.4: Store user input in variables and evaluate for appropriate responses using the console and built-in methods such as alert() and prompt().
@@ -28,7 +28,7 @@ JavaScript interpreters and rendering engines.
 1.3.6: Demonstrate the use of function specific methods including calling, binding and applying.
 1.3.7: Use built-in functions and cast variables.
 
-## Domain 2: Intermediate JavaScript Programming Techniques
+## Part 2: Intermediate JavaScript Programming Techniques
 
 2.1: Debug and troubleshoot JavaScript code.
 2.1.1: Demonstrate common steps for debugging JavaScript code, including reviewing code and testing code in different browsers and various devices.
@@ -65,7 +65,7 @@ JavaScript interpreters and rendering engines.
 2.5.5: Create functions and methods for manipulating client-side arrays.
 2.5.6: Use the prototype property, concept of classes, constructors, iterators and generators.
 
-## Domain 3: Applied JavaScript
+## Part 3: Applied JavaScript
 3.1: Modify HTML with JavaScript.
 3.1.1: Identify steps and methods for changing HTML "on the fly," including the getElementById, getElementsByName, getElementsByTagName and getElementsByClassName methods of the DOM.
 3.1.2: Modify attributes in HTML using DOM elements.
@@ -88,7 +88,7 @@ JavaScript interpreters and rendering engines.
 3.3.8: Manipulate cookies effectively, including testing for presence of cookies, clearing cookies, enabling/disabling cookies in the browser, and deleting cookies from your hard drive.
 3.3.9: Discuss ethics in collecting, storing, using and protecting user data.
 
-## Domain 4: JavaScript Technology Extensions
+## Part 4: JavaScript Technology Extensions
 4.1: Implement JavaScript libraries and frameworks.
 4.1.1: Identify and evaluate the benefits and drawbacks of using predefined libraries and frameworks, such as jQuery, Spry, Dojo, React.js, Angular.js and Prototype.
 4.1.2: Identify steps for using libraries (such as jQuery), frameworks and available plug-ins, including, optimization for faster JavaScript manipulation.
