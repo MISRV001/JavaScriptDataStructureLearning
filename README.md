@@ -17,7 +17,7 @@
    - Use Apply operators, including string concatenation ( += ), strict comparison ( === , !==), mathematical precedence and bitwise operators.
    - Demonstrate how to use expressions.
    - Implement simple event handlers, including keyboard, mouse and mobile (gestures or touch) events.
-3. Use JavaScript functions, methods, and events.
+3. **Use JavaScript functions, methods, and events.**
    - Define and use methods as functions.
    - Demonstrate the use of various types of functions and function elements including prototype functions, anonymous functions, closure functions, arguments and the use of return values.
    - Distinguish between global and local variables. 
@@ -28,10 +28,10 @@
 
 ## **Part 2: Intermediate JavaScript Programming Techniques**
 
-1. Debug and troubleshoot JavaScript code.
+1. **Debug and troubleshoot JavaScript code.**
    - Demonstrate common steps for debugging JavaScript code, including reviewing code and testing code in different browsers and various devices.
-     - Demonstrate how to use various native and supplemental debugging tools, including enabling/disabling display.
-2. Use JavaScript statements to control program flow.
+   - Demonstrate how to use various native and supplemental debugging tools, including enabling/disabling display.
+2. **Use JavaScript statements to control program flow.**
    - Use the if... statement.
    - Use the while... statement.
    - Use the do...while statement.
@@ -39,7 +39,7 @@
    - Use the forEach statement.
    - Use the break and continue statements.
    - Use the switch... statement.
-3. Use the JavaScript Document Object Model (DOM).
+3. **Use the JavaScript Document Object Model (DOM).**
    - Use JavaScript to manipulate the Document Object Model (DOM).
    - Use the window object of the DOM.
    - Manipulate properties and methods of the document object within the DOM.
@@ -48,14 +48,14 @@
    - Evaluate and change URL information with the location object of the DOM.
    -  Use the navigator object of the DOM.
    - Describe virtual DOM.
-4. Use JavaScript language objects and create expressions.
+4. **Use JavaScript language objects and create expressions.**
    - Use the String object to test user input.
    - Evaluate strings, including use of the length property, and use of the indexOf(), lastIndexOf(), substring() and charAt() methods.
    - Implement basic regular expressions and the RegExp object.
    - Use the Array object to create more efficient code.
    - Use the map() method.
    - Apply the Date and Math objects.
-5. Create and use custom JavaScript objects.
+5. **Create and use custom JavaScript objects.**
    - Create a custom JavaScript object.
    - Define properties and methods of custom objects.
    - Create new object instances.
@@ -65,18 +65,18 @@
 
 ## **Part 3: Applied JavaScript**
 
-1. Modify HTML with JavaScript.
+1. **Modify HTML with JavaScript.**
    - Identify steps and methods for changing HTML "on the fly," including the getElementById, getElementsByName, getElementsByTagName and getElementsByClassName methods of the DOM.
    - Modify attributes in HTML using DOM elements.
    - Modify form object values.
-2. Use JavaScript to develop interactive forms.
+2. **Use JavaScript to develop interactive forms.**
    - Identify and use form controls, including HTML5 form elements.
    - Define the form object.
    - Refer to form objects, including input, text, textarea, radio, checkbox, select, button, password, hidden, file and submit.
    - Use form objects, including radio, select, button, text, input, textarea, checkbox, password, hidden, file and submit. 
    - Conduct form validation.
    - Identify common form security issues.
-3. Address JavaScript security issues involving browsers and cookies.
+3. **Address JavaScript security issues involving browsers and cookies.**
    - Distinguish between the browser and the operating system in relation to the elements responsible for security.
    - Discuss browser security issues relevant to JavaScript, including script blocking, frame-toframe URL changing, and document.write behavior differences among browsers.
    - Define signed scripts.
@@ -88,18 +88,18 @@
    - Discuss ethics in collecting, storing, using and protecting user data.
 
 ## **Part 4: JavaScript Technology Extensions**
-1. Implement JavaScript libraries and frameworks
+1. **Implement JavaScript libraries and frameworks**
    - Identify and evaluate the benefits and drawbacks of using predefined libraries and frameworks, such as jQuery, Spry, Dojo, React.js, Angular.js and Prototype.
-     - AngularJS
-     - React.JS
-     - Vue.JS
-     - Spry
-     - Dojo
+     - **AngularJS**
+     - **React.JS**
+     - **Vue.JS**
+     - **Spry**
+     - **Dojo**
    - Identify steps for using libraries (such as jQuery), frameworks and available plug-ins, including, optimization for faster JavaScript manipulation.
    - Identify steps for loading and referencing external scripts and pre-made external scripts.
    - Identify and evaluate the benefits and drawbacks of Server-side JavaScript technologies.
    - Optimize page load time and user experience on various devices.
-2. Use JavaScript and AJAX to create interactive Web applications.
+2. **Use JavaScript and AJAX to create interactive Web applications.**
    - Define synchronous and asynchronous, fundamental AJAX elements, and procedures.
    - Explain the Fetch API, Promises and callback functions.
    - Use the XMLHttpRequest object to retrieve data.
@@ -107,7 +107,7 @@
    - Identify key server response issues related to AJAX-based requests.
    - Use JavaScript to communicate with databases.
    - Identify and compare XML and JSON.
-3. Implementing Web APIs. (New Objectives)
+3. **Implementing Web APIs. (New Objectives)**
    - Define Web API (Application Programming Interface) and benefits.
    - Identify and use Web APIs, including session storage, local storage, and GEO location.
    - Identify and use the Canvas API.
