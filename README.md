@@ -1,7 +1,7 @@
 # LearnJavaScript
 
 ## Part 1: Essential JavaScript Principles and Practices
-1.1. Identify characteristics of JavaScript and common programming practices.\n
+1.1. Identify characteristics of JavaScript and common programming practices.
      - List key JavaScript characteristics, including object-based nature, events, platformindependence, and differences between scripting languages and programming languages.
      - Identify common programming concepts, including objects, properties and methods.
      - Describe various JavaScript versions and flavors, including ECMA standards, JScript and similarities with proprietary scripting languages.
@@ -88,7 +88,7 @@
      - Discuss ethics in collecting, storing, using and protecting user data.
 
 ## Part 4: JavaScript Technology Extensions
-4.1. Implement JavaScript libraries and frameworks.
+4.1. Implement JavaScript libraries and frameworks
      - Identify and evaluate the benefits and drawbacks of using predefined libraries and frameworks, such as jQuery, Spry, Dojo, React.js, Angular.js and Prototype.
        - AngularJS
        - React.JS
